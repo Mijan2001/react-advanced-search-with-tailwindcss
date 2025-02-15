@@ -1,7 +1,5 @@
 # E-commerce Frontend
 
-\
-*Add a screenshot of your project here*
 
 ## 🚀 Project Overview
 
@@ -44,12 +42,11 @@ Follow these steps to run the project locally:
    ```
 
 ## 📸 Screenshots
+![fil1](./fil1.png)
 
-*![fil1]\(./fil1.png)*
+![fil2](./fil2.png)
 
-![fil2]\(./fil2.png)
-
-![fil3]\(./fil3.png)
+![fil3](./fil3.png)
 
 ## 🤝 Contributing
 
